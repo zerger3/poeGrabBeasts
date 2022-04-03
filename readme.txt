@@ -1,4 +1,4 @@
-Script clicks bestiary orb, clicks on top left beast in beastiry book and puts it into the inventory.
+Script clicks bestiary orb in your inventory, clicks on top left beast in beastiry book and puts it into the inventory.
 
 run GrabBeast.ahk
 run game in 800x600 windowed mode 
